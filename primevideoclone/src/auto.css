@@ -1,0 +1,32 @@
+.slider input{
+    display: none;
+}
+
+#radio1:checked ~  .circle-button1{
+    opacity: 1;
+}
+
+#radio2:checked ~  .circle-button2{
+    opacity: 1;
+}
+#radio3:checked ~  .circle-button3{
+    opacity: 1;
+}
+#radio4:checked ~  .circle-button4{
+    opacity: 1;
+}
+#radio5:checked ~  .circle-button5{
+    opacity: 1;
+}
+#radio6:checked ~  .circle-button6{
+    opacity: 1;
+}
+#radio7:checked ~  .circle-button7{
+    opacity: 1;
+}
+#radio8:checked ~  .circle-button8{
+    opacity: 1;
+}
+#radio9:checked ~  .circle-button9{
+    opacity: 1;
+}
