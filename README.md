@@ -10,7 +10,7 @@
 
 ## Check it out on the preview
 #### Landing page
-![image](https://github.com/Hyper-spec/PrimeVideoClone/blob/main/home.png?raw=true)
+![image](https://github.com/Hyper-spec/PrimeVideoClone/blob/master/home.png?raw=true)
 
 #### Movie info
 ![movieinfo](https://github.com/Hyper-spec/PrimeVideoClone/blob/main/movieinfo.png?raw=true)
