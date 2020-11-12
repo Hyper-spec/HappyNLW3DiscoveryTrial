@@ -13,7 +13,7 @@
 ![image](https://github.com/Hyper-spec/PrimeVideoClone/blob/master/home.png?raw=true)
 
 #### Movie info
-![movieinfo](https://github.com/Hyper-spec/PrimeVideoClone/blob/main/movieinfo.png?raw=true)
+![movieinfo](https://github.com/Hyper-spec/PrimeVideoClone/blob/master/movieinfo.png?raw=true)
 
 
 ## How can i run this application?
